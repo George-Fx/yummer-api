@@ -7,7 +7,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/21-tonkotsu-ramen.jpg",
       "description": "Rich and velvety mushroom soup made with fresh forest mushrooms, aromatic herbs and finished with cream.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 30,
       "weight": 350,
       "rating": 4.5,
@@ -31,7 +31,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/22-classic-cheeseburger.jpg",
       "description": "Comforting chicken noodle soup with tender chicken, fresh noodles, and garden vegetables in homemade broth.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 25,
       "weight": 400,
       "rating": 4.2,
@@ -55,7 +55,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/23-salmon-roll.jpg",
       "description": "Authentic Japanese ramen with rich pork broth, tender noodles, braised pork belly, soft-boiled egg, and fresh toppings.",
       "category": "Asian Soups",
-      "type": "food",
+
       "cookTime": 40,
       "weight": 450,
       "rating": 4.8,
@@ -79,7 +79,6 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/24-chocolate-cupcake.jpg",
       "description": "Traditional Japanese miso soup with premium white miso paste, delicate dashi broth, tofu, and wakame seaweed.",
       "category": "Asian Soups",
-      "type": "food",
       "cookTime": 15,
       "weight": 300,
       "rating": 4.3,
@@ -95,12 +94,12 @@
     },
     {
       "id": 5,
-      "name": "Minestrone Soup",
+      "name": "Chocolate Cupcake",
       "price": 7.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/05-minestrone-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/25-chocolate-cupcake.jpg",
       "description": "Hearty Italian minestrone soup with seasonal vegetables, cannellini beans, pasta, and aromatic herbs in vegetable broth.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 35,
       "weight": 420,
       "rating": 4.4,
@@ -126,7 +125,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/06-gazpacho.jpg",
       "description": "Refreshing Spanish cold soup made from sun-ripened tomatoes, cucumbers, bell peppers, and onions with olive oil.",
       "category": "Cold Soups",
-      "type": "food",
+
       "cookTime": 20,
       "weight": 250,
       "rating": 4.1,
@@ -151,7 +150,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/07-borscht.jpg",
       "description": "Traditional Eastern European beet soup with fresh beetroot, cabbage, carrots, and potatoes in beef broth with sour cream.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 50,
       "weight": 380,
       "rating": 4.3,
@@ -175,7 +174,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/08-french-onion-soup.jpg",
       "description": "Classic French onion soup with caramelized onions in rich beef broth, topped with baguette slices and melted Gruyère cheese.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 45,
       "weight": 360,
       "rating": 4.7,
@@ -198,7 +197,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/09-lentil-soup.jpg",
       "description": "Nutritious lentil soup with protein-rich red lentils, fresh vegetables, and aromatic spices in vegetable broth with olive oil.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 30,
       "weight": 370,
       "rating": 4.0,
@@ -222,7 +221,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/10-tom-yum-soup.jpg",
       "description": "Authentic Thai Tom Yum soup with fresh shrimp, mushrooms, lemongrass, kaffir lime leaves, and chilies in fragrant broth.",
       "category": "Asian Soups",
-      "type": "food",
+
       "cookTime": 30,
       "weight": 400,
       "rating": 4.6,
@@ -247,7 +246,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/11-cream-soup.jpg",
       "description": "Smooth and velvety cream soup with perfectly cooked potatoes and caramelized onions in vegetable broth with fresh cream.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 25,
       "weight": 330,
       "rating": 3.8,
@@ -270,7 +269,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/12-chicken-soup.jpg",
       "description": "Classic chicken soup with tender farm-fresh chicken, colorful vegetables, and egg noodles in house-made chicken broth.",
       "category": "Soups",
-      "type": "food",
+
       "cookTime": 35,
       "weight": 390,
       "rating": 4.1,
@@ -294,7 +293,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/13-greek-salad.jpg",
       "description": "Authentic Greek salad with ripe tomatoes, crisp cucumbers, red onions, creamy feta cheese, and Kalamata olives with olive oil.",
       "category": "Salads",
-      "type": "food",
+
       "cookTime": 10,
       "weight": 280,
       "rating": 4.2,
@@ -317,7 +316,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/14-caesar-salad.jpg",
       "description": "Classic Caesar salad with crisp romaine lettuce, grilled chicken, homemade croutons, and parmesan cheese in creamy Caesar dressing.",
       "category": "Salads",
-      "type": "food",
+
       "cookTime": 15,
       "weight": 320,
       "rating": 4.4,
@@ -339,7 +338,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/15-beef-burger.jpg",
       "description": "Premium beef burger with juicy hand-formed patty, fresh lettuce, tomato, onions, melted cheese, pickles, ketchup, and mustard.",
       "category": "Burgers",
-      "type": "food",
+
       "cookTime": 20,
       "weight": 450,
       "rating": 4.3,
@@ -364,7 +363,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/16-vegetarian-burger.jpg",
       "description": "Wholesome vegetarian burger with plant-based patty, fresh vegetables, melted cheese, pickles, and signature sauce blend.",
       "category": "Burgers",
-      "type": "food",
+
       "cookTime": 20,
       "weight": 420,
       "rating": 3.9,
@@ -389,7 +388,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/17-cake-with-frosting.jpg",
       "description": "Moist cake made with premium ingredients, baked to golden perfection and generously covered in signature sweet frosting.",
       "category": "Desserts",
-      "type": "food",
+
       "cookTime": 60,
       "weight": 150,
       "rating": 4.0,
@@ -413,7 +412,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/18-berry-cheesecake.jpg",
       "description": "Luxurious creamy cheesecake with premium cream cheese, vanilla extract on graham cracker crust topped with fresh berries.",
       "category": "Desserts",
-      "type": "food",
+
       "cookTime": 70,
       "weight": 180,
       "rating": 4.5,
@@ -436,7 +435,7 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/19-cold-lemonade.jpg",
       "description": "Refreshing cold lemonade made from freshly squeezed lemons, pure water, cane sugar, fresh mint leaves, and ice.",
       "category": "Drinks",
-      "type": "drink",
+
       "cookTime": 5,
       "weight": 400,
       "rating": 3.7,
@@ -451,7 +450,6 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/20-cappuccino.jpg",
       "description": "Perfectly crafted cappuccino with rich aromatic espresso, steamed milk, and velvety milk foam creating beautiful latte art.",
       "category": "Drinks",
-      "type": "drink",
       "cookTime": 5,
       "weight": 200,
       "rating": 4.2,
