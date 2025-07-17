@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 1,
-      "name": "Mushroom Soup",
+      "name": "Tonkotsu Ramen",
       "price": 7.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/21-tonkotsu-ramen.jpg",
       "description": "Rich and velvety mushroom soup made with fresh forest mushrooms, aromatic herbs and finished with cream.",
@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "name": "Noodle Soup",
+      "name": "Classic Cheeseburger",
       "price": 6.9,
       "image": "https://george-fx.github.io/mesio-data/dishes/22-classic-cheeseburger.jpg",
       "description": "Comforting chicken noodle soup with tender chicken, fresh noodles, and garden vegetables in homemade broth.",
@@ -50,9 +50,9 @@
     },
     {
       "id": 3,
-      "name": "Japanese Ramen",
+      "name": "Salmon Roll",
       "price": 9.5,
-      "image": "https://george-fx.github.io/mesio-data/dishes/03-japanese-ramen.jpg",
+      "image": "https://george-fx.github.io/mesio-data/dishes/23-salmon-roll.jpg",
       "description": "Authentic Japanese ramen with rich pork broth, tender noodles, braised pork belly, soft-boiled egg, and fresh toppings.",
       "category": "Asian Soups",
       "type": "food",
