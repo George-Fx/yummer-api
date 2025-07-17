@@ -74,9 +74,9 @@
     },
     {
       "id": 4,
-      "name": "Miso Soup",
+      "name": "Chocolate Cupcake",
       "price": 5.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/04-miso-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/24-chocolate-cupcake.jpg",
       "description": "Traditional Japanese miso soup with premium white miso paste, delicate dashi broth, tofu, and wakame seaweed.",
       "category": "Asian Soups",
       "type": "food",
