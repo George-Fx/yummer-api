@@ -12,7 +12,7 @@
       "weight": 350,
       "rating": 4.5,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "mushrooms",
         "onion",
