@@ -120,9 +120,9 @@
     },
     {
       "id": 6,
-      "name": "Gazpacho",
+      "name": "Apple Dessert",
       "price": 6.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/06-gazpacho.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/26-apple-dessert.jpg",
       "description": "Refreshing Spanish cold soup made from sun-ripened tomatoes, cucumbers, bell peppers, and onions with olive oil.",
       "category": "Cold Soups",
 
@@ -145,9 +145,9 @@
     },
     {
       "id": 7,
-      "name": "Borscht",
+      "name": "A Plate of Pancakes",
       "price": 7.8,
-      "image": "https://george-fx.github.io/yummer-data/dishes/07-borscht.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/27-a-plate-of-pancakes.jpg",
       "description": "Traditional Eastern European beet soup with fresh beetroot, cabbage, carrots, and potatoes in beef broth with sour cream.",
       "category": "Soups",
 
@@ -169,9 +169,9 @@
     },
     {
       "id": 8,
-      "name": "French Onion Soup",
+      "name": "Borscht",
       "price": 8.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/08-french-onion-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/28-borscht.jpg",
       "description": "Classic French onion soup with caramelized onions in rich beef broth, topped with baguette slices and melted Gruyère cheese.",
       "category": "Soups",
 
@@ -192,9 +192,9 @@
     },
     {
       "id": 9,
-      "name": "Lentil Soup",
+      "name": "Pasta Carbonara",
       "price": 6.8,
-      "image": "https://george-fx.github.io/yummer-data/dishes/09-lentil-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/29-pasta-carbonara.jpg",
       "description": "Nutritious lentil soup with protein-rich red lentils, fresh vegetables, and aromatic spices in vegetable broth with olive oil.",
       "category": "Soups",
 
@@ -216,9 +216,9 @@
     },
     {
       "id": 10,
-      "name": "Tom Yum Soup",
+      "name": "Light Blue Cake",
       "price": 8.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/10-tom-yum-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/30-light-blue-cake.jpg",
       "description": "Authentic Thai Tom Yum soup with fresh shrimp, mushrooms, lemongrass, kaffir lime leaves, and chilies in fragrant broth.",
       "category": "Asian Soups",
 
@@ -241,9 +241,9 @@
     },
     {
       "id": 11,
-      "name": "Cream Soup",
+      "name": "Vegetable Soup",
       "price": 7.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/11-cream-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/31-vegetable-soup.jpg",
       "description": "Smooth and velvety cream soup with perfectly cooked potatoes and caramelized onions in vegetable broth with fresh cream.",
       "category": "Soups",
 
