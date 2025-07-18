@@ -36,7 +36,7 @@
       "weight": 400,
       "rating": 4.2,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "noodles",
         "chicken broth",
@@ -60,7 +60,7 @@
       "weight": 450,
       "rating": 4.8,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "ramen noodles",
         "pork",
@@ -83,7 +83,7 @@
       "weight": 300,
       "rating": 4.3,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "miso paste",
         "dashi broth",
@@ -104,7 +104,7 @@
       "weight": 420,
       "rating": 4.4,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "vegetable broth",
         "carrots",
@@ -130,7 +130,7 @@
       "weight": 250,
       "rating": 4.1,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "tomatoes",
         "cucumber",
@@ -155,7 +155,7 @@
       "weight": 380,
       "rating": 4.3,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "beetroot",
         "cabbage",
@@ -179,7 +179,7 @@
       "weight": 360,
       "rating": 4.7,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "onions",
         "beef broth",
@@ -202,7 +202,7 @@
       "weight": 370,
       "rating": 4.0,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "lentils",
         "carrots",
@@ -226,7 +226,7 @@
       "weight": 400,
       "rating": 4.6,
       "isPopular": true,
-      "isRecommended": false,
+      "isRecommended": true,
       "ingredients": [
         "shrimp",
         "lemongrass",
@@ -250,7 +250,7 @@
       "cookTime": 25,
       "weight": 330,
       "rating": 3.8,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "vegetable broth",
@@ -273,7 +273,7 @@
       "cookTime": 35,
       "weight": 390,
       "rating": 4.1,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "chicken",
@@ -297,7 +297,7 @@
       "cookTime": 10,
       "weight": 280,
       "rating": 4.2,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "tomatoes",
@@ -320,7 +320,7 @@
       "cookTime": 15,
       "weight": 320,
       "rating": 4.4,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "romaine lettuce",
@@ -342,7 +342,7 @@
       "cookTime": 20,
       "weight": 450,
       "rating": 4.3,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "beef patty",
@@ -367,7 +367,7 @@
       "cookTime": 20,
       "weight": 420,
       "rating": 3.9,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "vegetable patty",
@@ -392,7 +392,7 @@
       "cookTime": 60,
       "weight": 150,
       "rating": 4.0,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "flour",
@@ -416,7 +416,7 @@
       "cookTime": 70,
       "weight": 180,
       "rating": 4.5,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": [
         "cream cheese",
@@ -439,7 +439,7 @@
       "cookTime": 5,
       "weight": 400,
       "rating": 3.7,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": ["lemon", "water", "sugar", "ice", "mint"]
     },
@@ -453,7 +453,7 @@
       "cookTime": 5,
       "weight": 200,
       "rating": 4.2,
-      "isPopular": false,
+      "isPopular": true,
       "isRecommended": true,
       "ingredients": ["espresso", "milk", "milk foam"]
     }
