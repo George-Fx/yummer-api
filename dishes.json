@@ -7,7 +7,6 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/21-tonkotsu-ramen.jpg",
       "description": "Rich and velvety mushroom soup made with fresh forest mushrooms, aromatic herbs and finished with cream.",
       "category": "Soups",
-
       "cookTime": 30,
       "weight": 350,
       "rating": 4.5,
@@ -264,9 +263,9 @@
     },
     {
       "id": 12,
-      "name": "Chicken Soup",
+      "name": "Pesto Pasta",
       "price": 7.2,
-      "image": "https://george-fx.github.io/yummer-data/dishes/12-chicken-soup.jpg",
+      "image": "https://george-fx.github.io/yummer-data/dishes/32-pesto-pasta.jpg",
       "description": "Classic chicken soup with tender farm-fresh chicken, colorful vegetables, and egg noodles in house-made chicken broth.",
       "category": "Soups",
 
@@ -285,177 +284,6 @@
         "salt",
         "pepper"
       ]
-    },
-    {
-      "id": 13,
-      "name": "Greek Salad",
-      "price": 6.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/13-greek-salad.jpg",
-      "description": "Authentic Greek salad with ripe tomatoes, crisp cucumbers, red onions, creamy feta cheese, and Kalamata olives with olive oil.",
-      "category": "Salads",
-
-      "cookTime": 10,
-      "weight": 280,
-      "rating": 4.2,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "tomatoes",
-        "cucumber",
-        "red onion",
-        "feta cheese",
-        "olives",
-        "olive oil",
-        "oregano"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Caesar Salad",
-      "price": 7.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/14-caesar-salad.jpg",
-      "description": "Classic Caesar salad with crisp romaine lettuce, grilled chicken, homemade croutons, and parmesan cheese in creamy Caesar dressing.",
-      "category": "Salads",
-
-      "cookTime": 15,
-      "weight": 320,
-      "rating": 4.4,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "romaine lettuce",
-        "croutons",
-        "parmesan cheese",
-        "chicken",
-        "caesar dressing",
-        "lemon juice"
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Beef Burger",
-      "price": 9.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/15-beef-burger.jpg",
-      "description": "Premium beef burger with juicy hand-formed patty, fresh lettuce, tomato, onions, melted cheese, pickles, ketchup, and mustard.",
-      "category": "Burgers",
-
-      "cookTime": 20,
-      "weight": 450,
-      "rating": 4.3,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "beef patty",
-        "burger bun",
-        "lettuce",
-        "tomato",
-        "onion",
-        "cheese",
-        "pickles",
-        "ketchup",
-        "mustard"
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Vegetarian Burger",
-      "price": 8.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/16-vegetarian-burger.jpg",
-      "description": "Wholesome vegetarian burger with plant-based patty, fresh vegetables, melted cheese, pickles, and signature sauce blend.",
-      "category": "Burgers",
-
-      "cookTime": 20,
-      "weight": 420,
-      "rating": 3.9,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "vegetable patty",
-        "burger bun",
-        "lettuce",
-        "tomato",
-        "onion",
-        "cheese",
-        "pickles",
-        "ketchup",
-        "mustard"
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Cake with Frosting",
-      "price": 5.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/17-cake-with-frosting.jpg",
-      "description": "Moist cake made with premium ingredients, baked to golden perfection and generously covered in signature sweet frosting.",
-      "category": "Desserts",
-
-      "cookTime": 60,
-      "weight": 150,
-      "rating": 4.0,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "flour",
-        "sugar",
-        "eggs",
-        "butter",
-        "milk",
-        "vanilla",
-        "baking powder",
-        "frosting"
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Berry Cheesecake",
-      "price": 6.2,
-      "image": "https://george-fx.github.io/yummer-data/dishes/18-berry-cheesecake.jpg",
-      "description": "Luxurious creamy cheesecake with premium cream cheese, vanilla extract on graham cracker crust topped with fresh berries.",
-      "category": "Desserts",
-
-      "cookTime": 70,
-      "weight": 180,
-      "rating": 4.5,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "cream cheese",
-        "sugar",
-        "eggs",
-        "berries",
-        "graham crackers",
-        "butter",
-        "vanilla"
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Cold Lemonade",
-      "price": 3.5,
-      "image": "https://george-fx.github.io/yummer-data/dishes/19-cold-lemonade.jpg",
-      "description": "Refreshing cold lemonade made from freshly squeezed lemons, pure water, cane sugar, fresh mint leaves, and ice.",
-      "category": "Drinks",
-
-      "cookTime": 5,
-      "weight": 400,
-      "rating": 3.7,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": ["lemon", "water", "sugar", "ice", "mint"]
-    },
-    {
-      "id": 20,
-      "name": "Cappuccino",
-      "price": 3.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/20-cappuccino.jpg",
-      "description": "Perfectly crafted cappuccino with rich aromatic espresso, steamed milk, and velvety milk foam creating beautiful latte art.",
-      "category": "Drinks",
-      "cookTime": 5,
-      "weight": 200,
-      "rating": 4.2,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": ["espresso", "milk", "milk foam"]
     }
   ]
 }
