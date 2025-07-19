@@ -2,38 +2,38 @@
   "promocodes": [
     {
       "id": 1,
-      "name": "KFC",
-      "code": "PROMO2025FX",
-      "discount": 25,
-      "expiresAt": "August 30, 2026",
-      "isActive": true,
+      "name": "McDonald's",
+      "code": "MCDONALDS50",
+      "discount": 50,
+      "expiresAt": "June 30, 2021",
+      "isActive": false,
       "logo": "https://george-fx.github.io/mesio-data/logos/01.jpg"
     },
     {
       "id": 2,
-      "name": "Domino’s Pizza",
-      "code": "SAVE4YOU25",
-      "discount": 40,
-      "expiresAt": "August 9, 2025",
-      "isActive": true,
+      "name": "Burger King",
+      "code": "BURGERKING30",
+      "discount": 30,
+      "expiresAt": "June 30, 2021",
+      "isActive": false,
       "logo": "https://george-fx.github.io/mesio-data/logos/02.jpg"
     },
     {
       "id": 3,
-      "name": "Burger King",
-      "code": "BONUSJULY10",
-      "discount": 30,
-      "expiresAt": "October 4, 2025",
-      "isActive": true,
+      "name": "Domino's Pizza",
+      "code": "DOMINOS50",
+      "discount": 50,
+      "expiresAt": "June 30, 2021",
+      "isActive": false,
       "logo": "https://george-fx.github.io/mesio-data/logos/03.jpg"
     },
     {
       "id": 4,
-      "name": "mcdonalds",
-      "code": "FXSUMMER25",
-      "discount": 50,
-      "expiresAt": "August 30, 2025",
-      "isActive": true,
+      "name": "KFC",
+      "code": "KFC25",
+      "discount": 25,
+      "expiresAt": "June 30, 2021",
+      "isActive": false,
       "logo": "https://george-fx.github.io/mesio-data/logos/04.jpg"
     }
   ]
