@@ -239,7 +239,6 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/31-vegetable-soup.jpg",
       "description": "Healthy and nutritious vegetable soup with fresh seasonal vegetables, herbs, and aromatic spices in vegetable broth.",
       "category": "Soups",
-
       "cookTime": 25,
       "weight": 330,
       "rating": 3.8,
@@ -263,7 +262,6 @@
       "image": "https://george-fx.github.io/yummer-data/dishes/32-pesto-pasta.jpg",
       "description": "Fresh pasta tossed with homemade basil pesto, pine nuts, garlic, and parmesan cheese, drizzled with olive oil.",
       "category": "Pasta",
-
       "cookTime": 35,
       "weight": 390,
       "rating": 4.1,
