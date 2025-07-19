@@ -3,27 +3,27 @@
     {
       "id": 1,
       "name": "Burger",
-      "logo": "https://george-fx.github.io/yummer-data/icons/01.png"
+      "icon": "https://george-fx.github.io/yummer-data/icons/01.png"
     },
     {
       "id": 2,
       "name": "Salads",
-      "logo": "https://george-fx.github.io/yummer-data/icons/02.png"
+      "icon": "https://george-fx.github.io/yummer-data/icons/02.png"
     },
     {
       "id": 3,
       "name": "Pizza",
-      "logo": "https://george-fx.github.io/yummer-data/icons/03.png"
+      "icon": "https://george-fx.github.io/yummer-data/icons/03.png"
     },
     {
       "id": 4,
       "name": "Pasta",
-      "logo": "https://george-fx.github.io/yummer-data/icons/04.png"
+      "icon": "https://george-fx.github.io/yummer-data/icons/04.png"
     },
     {
       "id": 5,
       "name": "Desserts",
-      "logo": "https://george-fx.github.io/yummer-data/icons/05.png"
+      "icon": "https://george-fx.github.io/yummer-data/icons/05.png"
     }
   ]
 }
