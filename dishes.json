@@ -5,22 +5,23 @@
       "name": "Tonkotsu Ramen",
       "price": 7.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/21-tonkotsu-ramen.jpg",
-      "description": "Rich and velvety mushroom soup made with fresh forest mushrooms, aromatic herbs and finished with cream.",
-      "category": "Soups",
+      "description": "Authentic Japanese ramen with rich pork bone broth, tender noodles, braised pork belly, soft-boiled egg, and fresh toppings.",
+      "category": "Asian Soups",
       "cookTime": 30,
       "weight": 350,
       "rating": 4.5,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "mushrooms",
-        "onion",
-        "garlic",
-        "vegetable broth",
-        "cream",
-        "butter",
-        "salt",
-        "pepper"
+        "ramen noodles",
+        "pork belly",
+        "pork bones",
+        "miso paste",
+        "soy sauce",
+        "egg",
+        "green onion",
+        "bamboo shoots",
+        "nori seaweed"
       ]
     },
     {
@@ -28,23 +29,22 @@
       "name": "Classic Cheeseburger",
       "price": 6.9,
       "image": "https://george-fx.github.io/yummer-data/dishes/22-classic-cheeseburger.jpg",
-      "description": "Comforting chicken noodle soup with tender chicken, fresh noodles, and garden vegetables in homemade broth.",
-      "category": "Soups",
-
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
       "cookTime": 25,
       "weight": 400,
       "rating": 4.2,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "noodles",
-        "chicken broth",
-        "carrots",
-        "celery",
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
         "onion",
-        "chicken",
-        "salt",
-        "pepper"
+        "pickles",
+        "mayonnaise"
       ]
     },
     {
@@ -52,23 +52,22 @@
       "name": "Salmon Roll",
       "price": 9.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/23-salmon-roll.jpg",
-      "description": "Authentic Japanese ramen with rich pork broth, tender noodles, braised pork belly, soft-boiled egg, and fresh toppings.",
-      "category": "Asian Soups",
-
+      "description": "Fresh salmon sushi roll with avocado, cucumber, and sesame seeds, served with soy sauce and wasabi.",
+      "category": "Sushi",
       "cookTime": 40,
       "weight": 450,
       "rating": 4.8,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "ramen noodles",
-        "pork",
+        "salmon",
+        "sushi rice",
+        "nori seaweed",
+        "avocado",
+        "cucumber",
+        "sesame seeds",
         "soy sauce",
-        "egg",
-        "nori",
-        "green onion",
-        "bamboo shoots",
-        "chicken broth"
+        "wasabi"
       ]
     },
     {
@@ -76,19 +75,22 @@
       "name": "Chocolate Cupcake",
       "price": 5.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/24-chocolate-cupcake.jpg",
-      "description": "Traditional Japanese miso soup with premium white miso paste, delicate dashi broth, tofu, and wakame seaweed.",
-      "category": "Asian Soups",
+      "description": "Rich and moist chocolate cupcake made with premium cocoa powder and topped with creamy chocolate frosting.",
+      "category": "Desserts",
       "cookTime": 15,
       "weight": 300,
       "rating": 4.3,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "miso paste",
-        "dashi broth",
-        "tofu",
-        "wakame seaweed",
-        "green onion"
+        "chocolate",
+        "flour",
+        "sugar",
+        "eggs",
+        "butter",
+        "cocoa powder",
+        "baking powder",
+        "vanilla extract"
       ]
     },
     {
@@ -96,25 +98,22 @@
       "name": "Chocolate Cupcake",
       "price": 7.0,
       "image": "https://george-fx.github.io/yummer-data/dishes/25-chocolate-cupcake.jpg",
-      "description": "Hearty Italian minestrone soup with seasonal vegetables, cannellini beans, pasta, and aromatic herbs in vegetable broth.",
-      "category": "Soups",
-
+      "description": "Decadent chocolate cupcake with double chocolate layers and rich buttercream frosting, perfect for chocolate lovers.",
+      "category": "Desserts",
       "cookTime": 35,
       "weight": 420,
       "rating": 4.4,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "vegetable broth",
-        "carrots",
-        "celery",
-        "onion",
-        "beans",
-        "tomatoes",
-        "pasta",
-        "zucchini",
-        "potato",
-        "olive oil"
+        "chocolate",
+        "flour",
+        "sugar",
+        "eggs",
+        "butter",
+        "cocoa powder",
+        "baking powder",
+        "vanilla extract"
       ]
     },
     {
@@ -122,8 +121,8 @@
       "name": "Apple Dessert",
       "price": 6.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/26-apple-dessert.jpg",
-      "description": "Refreshing Spanish cold soup made from sun-ripened tomatoes, cucumbers, bell peppers, and onions with olive oil.",
-      "category": "Cold Soups",
+      "description": "Warm apple dessert with tender baked apples, cinnamon, and a buttery crumble topping, served with vanilla sauce.",
+      "category": "Desserts",
 
       "cookTime": 20,
       "weight": 250,
@@ -131,15 +130,14 @@
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "tomatoes",
-        "cucumber",
-        "bell pepper",
-        "onion",
-        "garlic",
-        "olive oil",
-        "vinegar",
-        "salt",
-        "pepper"
+        "apples",
+        "flour",
+        "sugar",
+        "butter",
+        "cinnamon",
+        "vanilla extract",
+        "eggs",
+        "baking powder"
       ]
     },
     {
@@ -147,12 +145,34 @@
       "name": "A Plate of Pancakes",
       "price": 7.8,
       "image": "https://george-fx.github.io/yummer-data/dishes/27-a-plate-of-pancakes.jpg",
-      "description": "Traditional Eastern European beet soup with fresh beetroot, cabbage, carrots, and potatoes in beef broth with sour cream.",
-      "category": "Soups",
-
+      "description": "Fluffy buttermilk pancakes served with butter and maple syrup, perfect for breakfast or brunch.",
+      "category": "Breakfast",
       "cookTime": 50,
       "weight": 380,
       "rating": 4.3,
+      "isPopular": true,
+      "isRecommended": true,
+      "ingredients": [
+        "flour",
+        "milk",
+        "eggs",
+        "sugar",
+        "butter",
+        "baking powder",
+        "vanilla extract",
+        "maple syrup"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Borscht",
+      "price": 8.0,
+      "image": "https://george-fx.github.io/yummer-data/dishes/28-borscht.jpg",
+      "description": "Traditional Eastern European beet soup with fresh beetroot, cabbage, carrots, and potatoes in beef broth with sour cream.",
+      "category": "Soups",
+      "cookTime": 45,
+      "weight": 360,
+      "rating": 4.7,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
@@ -167,50 +187,26 @@
       ]
     },
     {
-      "id": 8,
-      "name": "Borscht",
-      "price": 8.0,
-      "image": "https://george-fx.github.io/yummer-data/dishes/28-borscht.jpg",
-      "description": "Classic French onion soup with caramelized onions in rich beef broth, topped with baguette slices and melted Gruyère cheese.",
-      "category": "Soups",
-
-      "cookTime": 45,
-      "weight": 360,
-      "rating": 4.7,
-      "isPopular": true,
-      "isRecommended": true,
-      "ingredients": [
-        "onions",
-        "beef broth",
-        "butter",
-        "flour",
-        "baguette",
-        "gruyere cheese",
-        "thyme"
-      ]
-    },
-    {
       "id": 9,
       "name": "Pasta Carbonara",
       "price": 6.8,
       "image": "https://george-fx.github.io/yummer-data/dishes/29-pasta-carbonara.jpg",
-      "description": "Nutritious lentil soup with protein-rich red lentils, fresh vegetables, and aromatic spices in vegetable broth with olive oil.",
-      "category": "Soups",
-
+      "description": "Classic Italian pasta with crispy bacon, eggs, parmesan cheese, and black pepper in a creamy sauce.",
+      "category": "Pasta",
       "cookTime": 30,
       "weight": 370,
       "rating": 4.0,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "lentils",
-        "carrots",
-        "celery",
-        "onion",
+        "pasta",
+        "eggs",
+        "bacon",
+        "parmesan cheese",
+        "black pepper",
         "garlic",
-        "vegetable broth",
-        "tomatoes",
-        "olive oil"
+        "olive oil",
+        "salt"
       ]
     },
     {
@@ -218,24 +214,22 @@
       "name": "Light Blue Cake",
       "price": 8.5,
       "image": "https://george-fx.github.io/yummer-data/dishes/30-light-blue-cake.jpg",
-      "description": "Authentic Thai Tom Yum soup with fresh shrimp, mushrooms, lemongrass, kaffir lime leaves, and chilies in fragrant broth.",
-      "category": "Asian Soups",
-
+      "description": "Beautiful light blue layered cake with vanilla sponge and smooth buttercream frosting, perfect for celebrations.",
+      "category": "Desserts",
       "cookTime": 30,
       "weight": 400,
       "rating": 4.6,
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "shrimp",
-        "lemongrass",
-        "kaffir lime leaves",
-        "galangal",
-        "chili",
-        "fish sauce",
-        "lime juice",
-        "mushrooms",
-        "tomatoes"
+        "flour",
+        "sugar",
+        "eggs",
+        "butter",
+        "blue food coloring",
+        "vanilla extract",
+        "baking powder",
+        "frosting"
       ]
     },
     {
@@ -243,7 +237,7 @@
       "name": "Vegetable Soup",
       "price": 7.0,
       "image": "https://george-fx.github.io/yummer-data/dishes/31-vegetable-soup.jpg",
-      "description": "Smooth and velvety cream soup with perfectly cooked potatoes and caramelized onions in vegetable broth with fresh cream.",
+      "description": "Healthy and nutritious vegetable soup with fresh seasonal vegetables, herbs, and aromatic spices in vegetable broth.",
       "category": "Soups",
 
       "cookTime": 25,
@@ -252,13 +246,14 @@
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "vegetable broth",
-        "cream",
-        "potato",
+        "mixed vegetables",
+        "carrots",
+        "celery",
         "onion",
-        "butter",
-        "salt",
-        "pepper"
+        "potatoes",
+        "vegetable broth",
+        "olive oil",
+        "herbs"
       ]
     },
     {
@@ -266,8 +261,8 @@
       "name": "Pesto Pasta",
       "price": 7.2,
       "image": "https://george-fx.github.io/yummer-data/dishes/32-pesto-pasta.jpg",
-      "description": "Classic chicken soup with tender farm-fresh chicken, colorful vegetables, and egg noodles in house-made chicken broth.",
-      "category": "Soups",
+      "description": "Fresh pasta tossed with homemade basil pesto, pine nuts, garlic, and parmesan cheese, drizzled with olive oil.",
+      "category": "Pasta",
 
       "cookTime": 35,
       "weight": 390,
@@ -275,12 +270,12 @@
       "isPopular": true,
       "isRecommended": true,
       "ingredients": [
-        "chicken",
-        "carrots",
-        "celery",
-        "onion",
-        "noodles",
-        "chicken broth",
+        "pasta",
+        "basil",
+        "pine nuts",
+        "garlic",
+        "parmesan cheese",
+        "olive oil",
         "salt",
         "pepper"
       ]
