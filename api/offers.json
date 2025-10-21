@@ -1,0 +1,20 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "image": "https://george-fx.github.io/yummer-data/offers/01.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://george-fx.github.io/yummer-data/offers/02.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://george-fx.github.io/yummer-data/offers/03.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://george-fx.github.io/yummer-data/offers/04.jpg"
+    }
+  ]
+}
