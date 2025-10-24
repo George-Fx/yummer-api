@@ -29,21 +29,7 @@
           "createdAt": "2025-10-22T13:36:37.813Z"
         }
       ],
-      "image": {
-        "id": 16,
-        "alt": "pesto-pasta",
-        "updatedAt": "2025-10-22T13:52:00.817Z",
-        "createdAt": "2025-10-22T13:52:00.817Z",
-        "url": "/api/media/file/32-pesto-pasta.jpg",
-        "thumbnailURL": null,
-        "filename": "32-pesto-pasta.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 240638,
-        "width": 1200,
-        "height": 1354,
-        "focalX": 50,
-        "focalY": 50
-      },
+      "image": "https://george-fx.github.io/yummer-data/dishes/32-pesto-pasta.jpg",
       "updatedAt": "2025-10-23T09:52:55.377Z",
       "createdAt": "2025-10-22T13:52:41.620Z"
     },
